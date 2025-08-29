@@ -21,9 +21,11 @@ Sales teams often struggle to track performance across regions, products, and ti
 Showcase your dashboard here to give recruiters and collaborators a visual feel for your work. Example:
 
 
-![Sales Dashboard Preview](results/dashboard_preview.png)
-*Figure: Interactive dashboard showing revenue trends, top-performing regions, and product-wise breakdown*
 
+*Figure: Interactive dashboard showing revenue trends, top-performing regions, and product-wise breakdown*
+<img width="1861" height="1241" alt="Screenshot 2025-08-29 164220" src="https://github.com/user-attachments/assets/528168cb-d809-418e-bb20-bcdfd8838d54" />
+
+<img width="2344" height="1252" alt="Screenshot 2025-08-29 163241" src="https://github.com/user-attachments/assets/85f9bd99-c873-4050-86f3-909e9e46ba87" />
 
 
 
