@@ -1,0 +1,1201 @@
+respondent_id,region,role,challenge_selected,uses_dashboard,reporting_tool,monthly_reporting_time,interest_in_solution
+1,North,Manager,A,Yes,Power BI,11,Yes
+2,North,Analyst,A,Yes,Excel,9,Yes
+3,South,Analyst,C,Yes,Excel,11,Yes
+4,North,Analyst,A,Yes,Excel,14,Yes
+5,East,Manager,B,Yes,Excel,9,Yes
+6,North,Analyst,B,No,Excel,9,Yes
+7,East,Analyst,C,Yes,Excel,14,Yes
+8,North,Support Lead,D,Yes,Excel,12,Yes
+9,South,Manager,A,Yes,None,8,Yes
+10,South,Analyst,A,Yes,Excel,11,No
+11,South,Analyst,C,No,Excel,8,Yes
+12,East,Analyst,A,No,Power BI,8,Yes
+13,South,Analyst,B,No,Excel,10,Yes
+14,South,Analyst,B,No,Excel,4,Yes
+15,East,Manager,E,Yes,Excel,4,Yes
+16,North,Manager,A,No,Power BI,8,Yes
+17,West,Analyst,E,No,Excel,6,Yes
+18,East,Analyst,A,Yes,Excel,10,Yes
+19,East,Support Lead,C,Yes,Excel,7,Yes
+20,South,Manager,C,Yes,Tableau,5,Yes
+21,North,Analyst,B,Yes,Excel,14,No
+22,East,Manager,A,Yes,Excel,9,Yes
+23,North,Support Lead,B,Yes,Power BI,10,No
+24,South,Manager,D,Yes,Excel,5,Yes
+25,South,Analyst,B,No,Excel,8,No
+26,West,Manager,A,Yes,Power BI,10,Yes
+27,South,Manager,C,Yes,Excel,6,Yes
+28,East,Manager,A,No,Excel,11,Yes
+29,West,Manager,B,Yes,Excel,8,Yes
+30,East,Analyst,B,No,Power BI,9,No
+31,North,Manager,C,No,Excel,8,Yes
+32,West,Manager,A,Yes,Tableau,15,Yes
+33,North,Manager,E,No,None,9,No
+34,South,Manager,B,Yes,Excel,6,Yes
+35,West,Manager,B,No,Tableau,12,Yes
+36,West,Manager,A,No,Power BI,6,Yes
+37,East,Manager,B,Yes,Tableau,10,Yes
+38,North,Support Lead,A,Yes,Tableau,4,Yes
+39,South,Analyst,A,Yes,Power BI,6,Yes
+40,East,Support Lead,A,No,Excel,10,Yes
+41,East,Analyst,D,No,Excel,12,Yes
+42,North,Manager,A,Yes,None,10,No
+43,South,Manager,A,No,Power BI,9,Yes
+44,North,Analyst,B,No,Excel,9,No
+45,East,Manager,A,Yes,Excel,5,Yes
+46,East,Manager,B,Yes,Excel,7,No
+47,North,Manager,B,Yes,Excel,8,Yes
+48,East,Manager,B,No,Power BI,13,Yes
+49,South,Analyst,C,Yes,Excel,11,Yes
+50,East,Manager,D,No,Excel,4,Yes
+51,South,Analyst,B,Yes,Tableau,10,No
+52,South,Support Lead,A,Yes,Tableau,8,Yes
+53,West,Manager,C,Yes,None,7,Yes
+54,South,Manager,C,Yes,Tableau,11,No
+55,South,Manager,D,Yes,Tableau,13,No
+56,South,Manager,A,Yes,Tableau,12,No
+57,East,Manager,B,No,Tableau,7,Yes
+58,North,Manager,E,Yes,None,9,Yes
+59,North,Analyst,A,No,Excel,10,No
+60,North,Manager,B,Yes,Power BI,12,Yes
+61,South,Manager,A,No,Excel,8,Yes
+62,North,Analyst,A,Yes,Excel,9,Yes
+63,East,Analyst,A,No,Excel,6,Yes
+64,South,Analyst,A,Yes,Excel,6,Yes
+65,West,Analyst,B,Yes,Excel,12,Yes
+66,West,Analyst,E,No,Power BI,14,Yes
+67,East,Manager,E,Yes,Excel,9,Yes
+68,South,Manager,A,Yes,Tableau,13,Yes
+69,West,Support Lead,B,No,Excel,11,Yes
+70,South,Analyst,A,No,Tableau,8,Yes
+71,West,Manager,C,No,Excel,11,Yes
+72,North,Analyst,C,No,None,14,Yes
+73,West,Analyst,C,Yes,Tableau,9,Yes
+74,South,Analyst,B,Yes,Excel,14,Yes
+75,West,Analyst,A,Yes,Excel,2,Yes
+76,East,Support Lead,A,Yes,Excel,12,Yes
+77,South,Manager,B,Yes,Excel,10,Yes
+78,West,Manager,C,No,Excel,9,No
+79,West,Analyst,D,Yes,Excel,10,No
+80,West,Analyst,C,No,Tableau,4,Yes
+81,East,Analyst,A,Yes,Power BI,9,Yes
+82,South,Support Lead,D,No,Power BI,11,No
+83,North,Manager,B,No,Excel,14,Yes
+84,East,Manager,A,No,Excel,8,Yes
+85,West,Manager,A,Yes,Power BI,7,No
+86,East,Manager,A,No,Excel,8,Yes
+87,South,Manager,A,Yes,Excel,12,Yes
+88,South,Analyst,A,Yes,Power BI,10,No
+89,North,Analyst,A,Yes,Power BI,8,No
+90,West,Manager,C,Yes,Power BI,11,Yes
+91,North,Analyst,A,No,Tableau,10,Yes
+92,North,Manager,B,Yes,Power BI,12,Yes
+93,West,Support Lead,A,No,Power BI,7,Yes
+94,South,Analyst,C,No,Excel,9,Yes
+95,West,Analyst,C,Yes,Excel,8,Yes
+96,North,Manager,B,No,Power BI,5,Yes
+97,East,Manager,D,Yes,Excel,10,Yes
+98,East,Manager,B,No,Power BI,10,Yes
+99,South,Manager,C,Yes,Tableau,10,Yes
+100,West,Analyst,A,Yes,Excel,9,Yes
+101,East,Analyst,B,Yes,Power BI,5,Yes
+102,West,Manager,A,Yes,Excel,8,Yes
+103,South,Manager,C,Yes,Power BI,8,Yes
+104,East,Support Lead,C,Yes,Excel,7,Yes
+105,South,Manager,E,Yes,Power BI,9,Yes
+106,West,Manager,A,Yes,Excel,11,Yes
+107,North,Manager,D,Yes,Excel,15,Yes
+108,North,Manager,C,No,Excel,10,Yes
+109,West,Analyst,C,Yes,Power BI,10,Yes
+110,West,Manager,B,Yes,Power BI,9,Yes
+111,North,Support Lead,A,Yes,Power BI,4,Yes
+112,South,Analyst,A,Yes,Power BI,9,Yes
+113,North,Manager,C,No,Excel,10,Yes
+114,East,Analyst,B,No,None,17,Yes
+115,South,Analyst,D,No,Excel,9,Yes
+116,East,Analyst,C,No,Excel,10,Yes
+117,East,Analyst,D,Yes,Excel,9,Yes
+118,North,Support Lead,C,No,Excel,6,Yes
+119,North,Support Lead,C,Yes,Excel,13,Yes
+120,West,Analyst,B,Yes,None,12,Yes
+121,West,Support Lead,B,Yes,Excel,12,Yes
+122,South,Manager,C,Yes,None,7,Yes
+123,North,Analyst,A,Yes,None,14,Yes
+124,North,Analyst,B,Yes,Excel,5,Yes
+125,West,Analyst,C,Yes,Power BI,11,No
+126,West,Support Lead,B,Yes,Power BI,16,Yes
+127,South,Manager,A,Yes,Excel,7,Yes
+128,North,Analyst,A,No,Excel,8,Yes
+129,East,Analyst,B,Yes,Excel,10,Yes
+130,South,Support Lead,B,No,Tableau,8,Yes
+131,West,Manager,C,Yes,Excel,5,Yes
+132,West,Support Lead,B,Yes,Excel,10,Yes
+133,West,Analyst,A,Yes,Power BI,6,Yes
+134,South,Support Lead,B,Yes,Excel,11,No
+135,West,Manager,C,No,None,7,Yes
+136,North,Manager,E,Yes,Excel,14,Yes
+137,North,Analyst,B,No,Excel,7,Yes
+138,South,Manager,C,Yes,Power BI,9,Yes
+139,North,Support Lead,D,No,Excel,12,Yes
+140,West,Support Lead,A,Yes,Power BI,6,No
+141,South,Analyst,B,Yes,Power BI,10,No
+142,West,Manager,A,Yes,Excel,13,Yes
+143,East,Manager,A,Yes,Power BI,5,Yes
+144,South,Manager,B,Yes,Power BI,10,Yes
+145,South,Manager,B,Yes,Power BI,10,No
+146,West,Support Lead,C,Yes,Excel,12,Yes
+147,East,Analyst,B,Yes,Tableau,6,Yes
+148,West,Support Lead,A,Yes,Excel,6,Yes
+149,East,Manager,C,Yes,Excel,11,No
+150,North,Support Lead,C,No,None,10,Yes
+151,South,Analyst,B,No,Power BI,10,Yes
+152,South,Analyst,D,No,Excel,11,Yes
+153,East,Analyst,A,Yes,Power BI,7,Yes
+154,South,Analyst,D,Yes,Power BI,10,Yes
+155,South,Manager,C,Yes,Tableau,10,Yes
+156,East,Support Lead,B,Yes,Tableau,7,Yes
+157,West,Support Lead,C,Yes,Tableau,15,Yes
+158,North,Analyst,C,No,Power BI,11,Yes
+159,East,Manager,A,Yes,Tableau,6,Yes
+160,South,Analyst,B,Yes,Power BI,11,Yes
+161,North,Manager,D,Yes,Excel,7,Yes
+162,South,Manager,B,No,Power BI,12,Yes
+163,South,Support Lead,C,No,Power BI,13,No
+164,East,Manager,B,Yes,None,7,No
+165,North,Support Lead,B,No,Power BI,12,Yes
+166,East,Manager,A,No,Excel,11,Yes
+167,North,Manager,A,No,Tableau,12,Yes
+168,South,Analyst,C,Yes,Tableau,15,Yes
+169,North,Manager,E,No,Power BI,9,Yes
+170,North,Analyst,A,Yes,Tableau,7,Yes
+171,East,Manager,A,Yes,Excel,7,Yes
+172,North,Analyst,C,Yes,Excel,7,Yes
+173,North,Analyst,D,No,Excel,9,Yes
+174,North,Manager,B,Yes,Power BI,11,Yes
+175,West,Manager,A,No,Excel,10,Yes
+176,East,Manager,B,Yes,Power BI,12,Yes
+177,North,Support Lead,C,No,Power BI,10,Yes
+178,West,Support Lead,B,No,Excel,14,Yes
+179,East,Analyst,C,Yes,Excel,9,No
+180,North,Manager,A,Yes,Power BI,18,Yes
+181,South,Analyst,B,Yes,Excel,11,Yes
+182,East,Support Lead,D,Yes,None,7,Yes
+183,East,Analyst,B,Yes,Excel,6,Yes
+184,South,Support Lead,B,Yes,Excel,11,Yes
+185,South,Support Lead,C,No,Tableau,9,Yes
+186,North,Analyst,C,No,Excel,12,Yes
+187,East,Support Lead,B,Yes,Excel,11,Yes
+188,North,Manager,B,Yes,Power BI,9,Yes
+189,West,Analyst,A,Yes,Excel,7,No
+190,North,Support Lead,A,No,Excel,5,Yes
+191,West,Analyst,B,Yes,Excel,8,Yes
+192,North,Manager,A,No,Power BI,12,Yes
+193,East,Manager,B,Yes,Excel,10,Yes
+194,South,Analyst,C,Yes,Excel,6,Yes
+195,West,Manager,B,No,Power BI,10,Yes
+196,East,Manager,D,Yes,Excel,11,No
+197,East,Analyst,B,No,Excel,7,Yes
+198,North,Support Lead,A,No,Excel,10,Yes
+199,East,Manager,C,Yes,Power BI,10,Yes
+200,West,Support Lead,C,Yes,Tableau,6,Yes
+201,North,Analyst,A,No,Excel,11,No
+202,South,Manager,A,Yes,Power BI,11,Yes
+203,North,Manager,C,Yes,Tableau,13,Yes
+204,West,Analyst,D,No,None,13,Yes
+205,East,Manager,A,Yes,Excel,5,Yes
+206,North,Manager,A,Yes,Excel,7,Yes
+207,East,Manager,D,No,Power BI,11,Yes
+208,West,Analyst,E,No,Excel,11,No
+209,South,Manager,B,Yes,Excel,11,Yes
+210,East,Support Lead,A,No,Excel,21,Yes
+211,West,Analyst,B,Yes,None,11,Yes
+212,East,Analyst,A,No,Excel,13,Yes
+213,West,Manager,C,No,None,12,No
+214,East,Manager,C,No,Excel,11,Yes
+215,West,Manager,C,Yes,Power BI,9,Yes
+216,East,Support Lead,C,No,Power BI,12,Yes
+217,North,Analyst,B,Yes,Excel,7,Yes
+218,South,Manager,C,Yes,None,9,Yes
+219,East,Support Lead,A,No,Tableau,8,No
+220,North,Analyst,D,No,Power BI,10,Yes
+221,South,Support Lead,C,No,Excel,16,Yes
+222,West,Manager,C,No,Power BI,4,Yes
+223,West,Manager,A,No,Tableau,12,No
+224,South,Manager,D,No,Excel,5,Yes
+225,West,Analyst,B,Yes,Excel,8,Yes
+226,East,Manager,B,Yes,None,13,Yes
+227,North,Manager,C,Yes,None,10,Yes
+228,West,Manager,D,No,Tableau,6,No
+229,West,Manager,B,Yes,None,7,Yes
+230,North,Manager,A,No,Excel,12,Yes
+231,North,Manager,C,No,Excel,7,Yes
+232,West,Analyst,D,Yes,Excel,10,Yes
+233,West,Manager,A,Yes,Excel,10,Yes
+234,West,Manager,C,Yes,Power BI,8,Yes
+235,South,Analyst,A,Yes,Excel,16,Yes
+236,South,Analyst,A,No,Excel,11,Yes
+237,North,Manager,B,No,None,3,Yes
+238,North,Manager,A,Yes,Power BI,10,Yes
+239,East,Manager,B,Yes,Power BI,8,Yes
+240,West,Support Lead,B,Yes,Excel,12,Yes
+241,West,Manager,A,No,Tableau,7,Yes
+242,East,Analyst,E,Yes,Excel,9,Yes
+243,South,Manager,D,Yes,Power BI,11,Yes
+244,East,Analyst,B,Yes,None,12,Yes
+245,South,Analyst,B,No,Power BI,6,Yes
+246,West,Manager,B,No,Power BI,8,Yes
+247,North,Manager,A,Yes,Power BI,8,Yes
+248,West,Manager,A,No,Excel,8,No
+249,East,Analyst,C,Yes,Power BI,15,Yes
+250,South,Support Lead,A,No,Tableau,11,Yes
+251,North,Manager,B,Yes,None,6,Yes
+252,South,Analyst,D,Yes,Tableau,12,Yes
+253,East,Manager,B,Yes,Excel,16,Yes
+254,West,Analyst,D,Yes,Tableau,13,Yes
+255,South,Support Lead,A,No,Excel,5,Yes
+256,North,Analyst,D,Yes,Excel,8,Yes
+257,East,Analyst,C,Yes,Excel,13,Yes
+258,South,Analyst,D,No,Tableau,7,Yes
+259,North,Support Lead,C,Yes,Excel,11,Yes
+260,East,Analyst,E,Yes,Tableau,12,Yes
+261,West,Support Lead,C,Yes,Tableau,7,Yes
+262,North,Manager,A,Yes,Excel,9,Yes
+263,South,Support Lead,C,No,Excel,0,No
+264,West,Analyst,D,No,Power BI,6,Yes
+265,South,Manager,C,Yes,None,9,No
+266,North,Manager,B,Yes,Excel,6,Yes
+267,North,Analyst,A,No,Excel,14,Yes
+268,East,Support Lead,B,No,Excel,5,Yes
+269,East,Analyst,C,Yes,Power BI,8,Yes
+270,East,Analyst,A,Yes,Tableau,10,Yes
+271,West,Manager,A,Yes,Excel,14,Yes
+272,South,Manager,C,No,Tableau,5,No
+273,South,Analyst,B,Yes,Excel,13,Yes
+274,West,Manager,A,Yes,Excel,10,Yes
+275,South,Support Lead,D,No,None,7,Yes
+276,South,Analyst,B,Yes,Excel,11,Yes
+277,North,Manager,B,Yes,Excel,10,Yes
+278,North,Manager,B,No,Power BI,8,Yes
+279,North,Support Lead,B,No,Power BI,10,Yes
+280,East,Manager,A,Yes,Excel,8,Yes
+281,West,Analyst,C,Yes,None,10,Yes
+282,North,Manager,A,Yes,None,11,Yes
+283,East,Analyst,A,Yes,Power BI,14,Yes
+284,South,Analyst,C,Yes,Excel,6,No
+285,South,Manager,B,Yes,None,16,Yes
+286,East,Analyst,B,Yes,Excel,4,Yes
+287,West,Support Lead,B,No,None,9,Yes
+288,North,Analyst,A,No,None,11,Yes
+289,South,Analyst,B,Yes,Power BI,10,Yes
+290,West,Manager,C,Yes,None,8,Yes
+291,North,Analyst,B,Yes,Excel,9,Yes
+292,West,Support Lead,C,Yes,Excel,8,Yes
+293,East,Support Lead,B,Yes,None,8,Yes
+294,East,Analyst,C,No,Power BI,12,Yes
+295,East,Analyst,A,Yes,Power BI,11,Yes
+296,East,Analyst,C,No,Excel,7,Yes
+297,East,Manager,B,Yes,Tableau,12,Yes
+298,East,Support Lead,C,Yes,Excel,10,Yes
+299,East,Support Lead,C,No,Excel,12,Yes
+300,East,Support Lead,C,Yes,Power BI,11,Yes
+301,South,Manager,D,Yes,Excel,7,Yes
+302,East,Analyst,A,No,Excel,8,Yes
+303,South,Analyst,D,No,Excel,12,Yes
+304,East,Manager,B,No,Excel,11,Yes
+305,North,Support Lead,A,No,Excel,9,No
+306,West,Analyst,A,No,Tableau,10,Yes
+307,North,Manager,B,Yes,None,13,Yes
+308,West,Support Lead,A,Yes,Excel,8,Yes
+309,East,Manager,B,Yes,Excel,11,Yes
+310,East,Analyst,C,Yes,Tableau,9,No
+311,West,Analyst,A,No,Excel,9,Yes
+312,East,Support Lead,A,Yes,Excel,13,Yes
+313,East,Manager,C,Yes,Power BI,12,Yes
+314,North,Analyst,B,Yes,Power BI,12,No
+315,East,Analyst,B,No,Excel,13,Yes
+316,South,Analyst,B,No,Excel,10,Yes
+317,West,Analyst,C,No,Tableau,12,Yes
+318,North,Analyst,B,Yes,None,9,Yes
+319,South,Analyst,A,Yes,Power BI,10,Yes
+320,South,Analyst,B,No,Excel,9,Yes
+321,South,Analyst,B,Yes,Excel,10,Yes
+322,North,Manager,C,No,Power BI,11,Yes
+323,East,Analyst,B,Yes,Tableau,7,No
+324,West,Manager,B,No,Tableau,16,No
+325,West,Manager,D,Yes,None,6,Yes
+326,North,Analyst,C,Yes,Power BI,6,Yes
+327,South,Support Lead,B,Yes,None,13,Yes
+328,North,Support Lead,B,No,Excel,12,Yes
+329,South,Manager,A,Yes,None,11,Yes
+330,North,Manager,C,No,None,11,No
+331,South,Manager,A,Yes,Power BI,9,Yes
+332,North,Manager,A,Yes,Power BI,7,Yes
+333,North,Manager,E,Yes,None,10,Yes
+334,East,Manager,D,No,Power BI,7,Yes
+335,East,Manager,D,No,None,12,Yes
+336,West,Analyst,A,Yes,Power BI,9,Yes
+337,East,Analyst,B,Yes,Excel,7,Yes
+338,South,Support Lead,A,No,Tableau,9,No
+339,West,Support Lead,B,Yes,Excel,11,Yes
+340,North,Support Lead,C,Yes,Power BI,8,Yes
+341,East,Manager,B,Yes,Excel,7,Yes
+342,South,Analyst,D,Yes,None,10,Yes
+343,South,Support Lead,A,No,Excel,10,Yes
+344,South,Manager,A,Yes,Excel,8,Yes
+345,East,Manager,B,No,Excel,8,Yes
+346,West,Analyst,A,Yes,Excel,10,Yes
+347,South,Analyst,A,Yes,Power BI,5,Yes
+348,East,Manager,A,Yes,Tableau,5,Yes
+349,East,Manager,C,No,Power BI,7,Yes
+350,South,Analyst,B,Yes,Power BI,9,Yes
+351,North,Analyst,C,Yes,Tableau,10,Yes
+352,North,Analyst,C,Yes,Power BI,14,Yes
+353,West,Manager,B,No,Power BI,12,Yes
+354,West,Manager,B,Yes,Excel,9,Yes
+355,East,Manager,C,No,Tableau,9,No
+356,North,Support Lead,B,Yes,Power BI,6,Yes
+357,East,Manager,B,Yes,Excel,9,Yes
+358,South,Manager,C,Yes,None,9,Yes
+359,North,Manager,B,Yes,Excel,10,Yes
+360,South,Manager,C,No,Excel,7,No
+361,North,Support Lead,D,Yes,None,11,Yes
+362,West,Manager,D,No,Excel,14,Yes
+363,North,Manager,D,Yes,Excel,9,Yes
+364,West,Support Lead,A,Yes,Power BI,11,Yes
+365,East,Manager,C,No,Power BI,12,Yes
+366,East,Manager,B,No,Excel,8,Yes
+367,West,Support Lead,A,No,Tableau,10,Yes
+368,South,Manager,D,Yes,Power BI,10,Yes
+369,North,Analyst,A,Yes,Excel,10,Yes
+370,West,Analyst,B,No,Excel,7,Yes
+371,North,Support Lead,B,No,Excel,10,Yes
+372,West,Analyst,B,Yes,Excel,11,Yes
+373,North,Analyst,C,No,Excel,14,Yes
+374,North,Analyst,B,No,Excel,12,Yes
+375,West,Manager,A,Yes,Excel,16,Yes
+376,East,Analyst,B,Yes,Excel,7,Yes
+377,West,Analyst,A,Yes,Excel,12,No
+378,East,Support Lead,B,No,Excel,10,Yes
+379,South,Manager,B,No,Excel,16,Yes
+380,West,Support Lead,A,No,Excel,7,Yes
+381,South,Manager,A,No,Excel,7,No
+382,South,Analyst,B,No,Power BI,8,No
+383,West,Support Lead,A,No,Tableau,3,Yes
+384,West,Analyst,A,Yes,Excel,8,Yes
+385,West,Analyst,A,No,Excel,7,Yes
+386,West,Analyst,C,Yes,Tableau,10,Yes
+387,North,Manager,A,No,Excel,11,Yes
+388,West,Support Lead,A,No,Excel,15,Yes
+389,South,Analyst,B,Yes,Power BI,12,Yes
+390,West,Analyst,C,No,Excel,8,No
+391,West,Manager,B,No,Excel,7,No
+392,South,Manager,A,No,Power BI,11,Yes
+393,North,Analyst,C,Yes,Excel,6,Yes
+394,North,Manager,A,Yes,Tableau,15,No
+395,South,Analyst,B,Yes,Excel,13,Yes
+396,West,Analyst,A,No,Excel,8,Yes
+397,South,Analyst,B,Yes,Excel,4,Yes
+398,North,Analyst,C,Yes,Excel,14,Yes
+399,North,Manager,D,Yes,Power BI,9,Yes
+400,West,Analyst,A,No,Power BI,13,Yes
+401,East,Support Lead,B,No,Excel,5,Yes
+402,North,Manager,C,Yes,Excel,8,Yes
+403,West,Analyst,B,Yes,None,10,No
+404,South,Analyst,B,Yes,Excel,10,Yes
+405,North,Support Lead,E,Yes,Excel,8,Yes
+406,West,Analyst,B,No,Excel,11,Yes
+407,North,Analyst,A,Yes,Excel,6,Yes
+408,West,Analyst,C,Yes,Power BI,9,Yes
+409,East,Analyst,C,Yes,Tableau,10,Yes
+410,West,Analyst,E,Yes,Tableau,11,Yes
+411,East,Support Lead,A,Yes,Tableau,12,Yes
+412,North,Analyst,A,No,Power BI,6,Yes
+413,West,Manager,A,Yes,Excel,5,Yes
+414,East,Analyst,B,Yes,None,13,Yes
+415,East,Support Lead,B,No,Tableau,10,Yes
+416,West,Support Lead,E,No,Excel,7,No
+417,South,Manager,A,Yes,Tableau,14,Yes
+418,South,Analyst,A,Yes,Excel,10,Yes
+419,North,Analyst,C,No,Tableau,13,Yes
+420,West,Manager,A,No,Power BI,10,Yes
+421,West,Analyst,C,No,Tableau,16,Yes
+422,West,Support Lead,B,Yes,Excel,15,Yes
+423,South,Analyst,B,Yes,Power BI,9,Yes
+424,North,Analyst,C,Yes,None,12,Yes
+425,West,Manager,E,Yes,Power BI,11,Yes
+426,East,Manager,D,Yes,Power BI,14,Yes
+427,East,Analyst,B,Yes,Power BI,7,Yes
+428,South,Analyst,A,Yes,Excel,12,Yes
+429,South,Analyst,B,Yes,Excel,13,Yes
+430,West,Analyst,B,Yes,Excel,4,Yes
+431,North,Manager,D,Yes,Tableau,6,Yes
+432,South,Analyst,C,Yes,Power BI,3,Yes
+433,South,Analyst,C,No,Excel,9,Yes
+434,West,Support Lead,A,Yes,Tableau,12,Yes
+435,West,Manager,B,No,Excel,14,Yes
+436,South,Analyst,B,No,Tableau,10,Yes
+437,East,Manager,B,Yes,Excel,14,Yes
+438,South,Analyst,A,Yes,Power BI,5,Yes
+439,North,Support Lead,D,Yes,Tableau,4,Yes
+440,East,Analyst,A,Yes,None,9,Yes
+441,North,Manager,A,No,None,11,Yes
+442,East,Analyst,B,Yes,Power BI,9,Yes
+443,South,Manager,A,Yes,Excel,3,Yes
+444,East,Manager,B,No,Power BI,9,Yes
+445,West,Analyst,C,Yes,Excel,6,Yes
+446,West,Analyst,A,No,Power BI,12,Yes
+447,North,Analyst,C,Yes,None,11,Yes
+448,East,Manager,A,No,Excel,7,No
+449,North,Manager,B,Yes,Excel,8,No
+450,North,Analyst,B,Yes,Tableau,6,Yes
+451,South,Manager,A,Yes,Power BI,9,Yes
+452,North,Manager,D,Yes,Excel,12,Yes
+453,South,Manager,E,Yes,Tableau,7,Yes
+454,West,Manager,A,No,Excel,11,Yes
+455,East,Manager,C,Yes,Excel,8,Yes
+456,North,Support Lead,A,Yes,Excel,7,Yes
+457,East,Manager,B,Yes,Excel,9,Yes
+458,South,Analyst,B,Yes,Tableau,6,Yes
+459,South,Manager,D,Yes,Power BI,8,Yes
+460,North,Support Lead,A,No,Tableau,6,Yes
+461,North,Manager,E,Yes,None,15,No
+462,South,Analyst,A,No,Tableau,10,Yes
+463,East,Analyst,C,Yes,Power BI,7,Yes
+464,West,Manager,B,Yes,None,10,Yes
+465,East,Support Lead,D,Yes,Tableau,9,Yes
+466,West,Manager,A,Yes,Tableau,9,Yes
+467,South,Manager,B,Yes,Excel,11,Yes
+468,South,Analyst,B,No,Excel,12,Yes
+469,East,Support Lead,C,Yes,Tableau,8,Yes
+470,North,Analyst,E,Yes,Excel,8,Yes
+471,South,Manager,B,Yes,Power BI,9,Yes
+472,West,Manager,C,Yes,Excel,3,Yes
+473,South,Manager,C,Yes,Power BI,5,Yes
+474,East,Support Lead,A,No,Excel,14,Yes
+475,South,Manager,C,No,Excel,14,No
+476,North,Manager,B,No,Excel,9,Yes
+477,West,Manager,A,Yes,Excel,11,No
+478,North,Analyst,B,No,Excel,10,No
+479,West,Manager,A,Yes,Excel,19,No
+480,South,Analyst,C,No,None,13,Yes
+481,East,Analyst,C,Yes,Power BI,9,Yes
+482,East,Manager,A,Yes,Tableau,7,Yes
+483,North,Support Lead,B,Yes,Power BI,5,Yes
+484,South,Manager,C,Yes,Tableau,10,No
+485,North,Analyst,D,Yes,None,7,Yes
+486,South,Manager,B,No,Power BI,5,No
+487,North,Analyst,B,Yes,Excel,8,No
+488,West,Analyst,A,Yes,Excel,6,Yes
+489,North,Analyst,A,No,Excel,15,Yes
+490,South,Support Lead,C,Yes,Excel,12,Yes
+491,South,Analyst,C,No,None,9,Yes
+492,West,Analyst,A,Yes,None,14,Yes
+493,West,Analyst,E,No,Excel,10,No
+494,East,Manager,B,Yes,Excel,7,Yes
+495,South,Manager,A,No,Power BI,14,No
+496,North,Manager,A,No,Power BI,11,Yes
+497,North,Support Lead,A,No,Excel,6,No
+498,South,Analyst,E,No,Power BI,9,Yes
+499,East,Analyst,A,Yes,Excel,7,Yes
+500,North,Analyst,A,Yes,Excel,5,Yes
+501,West,Analyst,B,Yes,Excel,12,Yes
+502,South,Manager,A,No,Excel,15,Yes
+503,North,Manager,A,Yes,Power BI,5,Yes
+504,North,Manager,E,No,Power BI,11,Yes
+505,South,Analyst,B,Yes,Excel,8,No
+506,West,Analyst,C,No,Excel,8,Yes
+507,South,Manager,B,Yes,Excel,8,Yes
+508,North,Analyst,A,No,Power BI,7,Yes
+509,North,Manager,B,No,Excel,10,Yes
+510,West,Analyst,D,Yes,Power BI,7,Yes
+511,East,Support Lead,B,Yes,Excel,10,Yes
+512,South,Support Lead,B,Yes,Power BI,9,Yes
+513,East,Support Lead,B,No,Excel,9,Yes
+514,West,Support Lead,B,Yes,Tableau,7,Yes
+515,South,Analyst,A,No,Power BI,8,Yes
+516,South,Manager,C,Yes,None,12,No
+517,South,Manager,B,No,Excel,11,No
+518,South,Support Lead,A,No,None,7,Yes
+519,West,Analyst,B,No,Power BI,10,No
+520,North,Analyst,B,Yes,Excel,12,Yes
+521,South,Analyst,B,No,Excel,4,Yes
+522,North,Analyst,D,No,Tableau,11,Yes
+523,West,Analyst,B,Yes,Excel,8,Yes
+524,West,Manager,D,Yes,Excel,11,Yes
+525,East,Support Lead,A,No,Excel,7,Yes
+526,West,Support Lead,C,No,Excel,4,Yes
+527,West,Analyst,A,No,Power BI,5,Yes
+528,West,Manager,C,No,Tableau,10,No
+529,North,Analyst,A,Yes,Power BI,10,Yes
+530,North,Manager,D,Yes,Excel,7,Yes
+531,North,Support Lead,C,Yes,Tableau,11,Yes
+532,North,Analyst,A,Yes,Excel,5,No
+533,West,Analyst,A,Yes,Tableau,9,Yes
+534,North,Manager,B,Yes,Power BI,6,No
+535,South,Analyst,C,Yes,Excel,8,Yes
+536,North,Analyst,A,Yes,Tableau,10,Yes
+537,East,Analyst,C,Yes,Tableau,7,No
+538,West,Manager,B,No,Tableau,8,Yes
+539,North,Manager,E,No,Tableau,13,Yes
+540,East,Manager,A,Yes,None,8,Yes
+541,East,Manager,C,No,Excel,12,Yes
+542,South,Support Lead,C,No,Power BI,6,Yes
+543,South,Analyst,C,No,Excel,11,Yes
+544,West,Analyst,B,No,Tableau,14,Yes
+545,South,Analyst,B,Yes,None,2,Yes
+546,East,Support Lead,C,No,Excel,7,Yes
+547,South,Analyst,C,Yes,None,11,No
+548,East,Analyst,A,Yes,Tableau,9,Yes
+549,East,Manager,B,Yes,Excel,11,Yes
+550,North,Analyst,A,Yes,Power BI,8,Yes
+551,West,Manager,D,Yes,Excel,10,Yes
+552,West,Manager,D,Yes,Excel,9,Yes
+553,South,Manager,A,Yes,Excel,13,Yes
+554,South,Analyst,C,Yes,Power BI,10,Yes
+555,West,Analyst,B,Yes,Power BI,11,Yes
+556,North,Support Lead,C,Yes,Excel,8,Yes
+557,South,Manager,D,Yes,Excel,8,Yes
+558,East,Manager,C,Yes,Excel,8,Yes
+559,East,Analyst,C,Yes,None,11,Yes
+560,South,Manager,D,No,Excel,8,Yes
+561,South,Manager,A,Yes,Excel,10,Yes
+562,North,Manager,B,No,Power BI,16,Yes
+563,North,Analyst,C,Yes,Power BI,12,Yes
+564,West,Manager,A,No,Excel,9,Yes
+565,North,Manager,C,No,Excel,13,Yes
+566,South,Analyst,D,Yes,Power BI,8,Yes
+567,North,Analyst,B,No,Tableau,3,No
+568,East,Analyst,A,Yes,Excel,6,Yes
+569,West,Manager,A,No,None,4,Yes
+570,West,Manager,A,Yes,Power BI,8,Yes
+571,East,Analyst,B,No,Excel,10,Yes
+572,South,Support Lead,D,Yes,Power BI,15,Yes
+573,North,Manager,C,Yes,Tableau,10,Yes
+574,South,Manager,D,No,Excel,9,Yes
+575,East,Support Lead,A,Yes,None,12,Yes
+576,West,Analyst,B,Yes,Tableau,3,Yes
+577,South,Analyst,A,No,Excel,10,Yes
+578,West,Support Lead,C,Yes,Excel,12,Yes
+579,North,Support Lead,D,No,Tableau,5,Yes
+580,West,Manager,B,Yes,Excel,13,Yes
+581,South,Support Lead,C,Yes,Power BI,11,Yes
+582,North,Analyst,C,Yes,Power BI,8,Yes
+583,South,Support Lead,B,No,Excel,11,Yes
+584,South,Analyst,B,Yes,Excel,16,Yes
+585,East,Manager,E,Yes,Excel,10,Yes
+586,West,Support Lead,A,Yes,Power BI,10,Yes
+587,West,Analyst,A,Yes,Power BI,8,Yes
+588,West,Manager,B,No,Tableau,7,No
+589,East,Support Lead,B,No,Excel,12,Yes
+590,North,Support Lead,C,Yes,Tableau,7,Yes
+591,East,Analyst,A,No,Excel,10,Yes
+592,East,Analyst,B,Yes,Tableau,8,Yes
+593,West,Manager,B,Yes,None,11,Yes
+594,West,Support Lead,A,Yes,Tableau,11,Yes
+595,North,Analyst,B,No,None,13,Yes
+596,West,Manager,C,Yes,Excel,8,Yes
+597,South,Analyst,A,No,Excel,9,Yes
+598,East,Analyst,B,No,None,7,Yes
+599,East,Manager,A,Yes,Tableau,8,Yes
+600,East,Support Lead,B,Yes,Power BI,11,Yes
+601,South,Manager,B,Yes,Excel,12,Yes
+602,South,Analyst,C,Yes,Excel,7,Yes
+603,West,Analyst,D,No,Power BI,12,No
+604,East,Support Lead,B,Yes,Excel,14,Yes
+605,North,Analyst,A,No,Excel,11,Yes
+606,East,Manager,A,No,Excel,15,Yes
+607,East,Support Lead,A,No,Power BI,7,No
+608,West,Manager,C,No,Excel,6,Yes
+609,West,Manager,E,No,Excel,4,Yes
+610,North,Analyst,A,No,Tableau,14,Yes
+611,South,Support Lead,C,No,Tableau,11,Yes
+612,South,Analyst,E,Yes,Excel,9,Yes
+613,South,Support Lead,C,Yes,Excel,10,Yes
+614,East,Manager,B,Yes,Excel,6,Yes
+615,South,Manager,D,Yes,Tableau,17,Yes
+616,East,Analyst,B,Yes,Tableau,10,Yes
+617,South,Support Lead,B,No,Excel,10,Yes
+618,West,Manager,A,Yes,Excel,12,Yes
+619,South,Support Lead,B,Yes,Power BI,11,Yes
+620,North,Manager,A,Yes,Power BI,10,No
+621,South,Support Lead,C,Yes,None,7,No
+622,West,Manager,C,Yes,Power BI,11,Yes
+623,West,Analyst,A,No,Excel,15,Yes
+624,North,Manager,E,Yes,Excel,14,Yes
+625,South,Support Lead,B,Yes,Power BI,14,Yes
+626,West,Analyst,D,No,Excel,8,Yes
+627,East,Manager,A,Yes,Excel,7,Yes
+628,South,Support Lead,B,Yes,Excel,9,Yes
+629,West,Analyst,B,No,Power BI,10,Yes
+630,North,Analyst,A,No,Excel,13,Yes
+631,East,Analyst,A,No,Excel,4,Yes
+632,North,Analyst,B,Yes,Excel,14,Yes
+633,East,Support Lead,A,No,None,9,Yes
+634,East,Support Lead,A,No,Excel,8,Yes
+635,West,Analyst,D,Yes,Power BI,6,No
+636,East,Manager,D,No,Excel,5,Yes
+637,East,Manager,A,No,Tableau,12,No
+638,West,Analyst,A,No,Excel,10,Yes
+639,West,Support Lead,B,No,Excel,6,Yes
+640,North,Support Lead,A,Yes,Power BI,6,Yes
+641,South,Analyst,B,Yes,Excel,8,Yes
+642,South,Analyst,C,No,Excel,15,Yes
+643,East,Support Lead,B,Yes,Excel,9,Yes
+644,South,Analyst,A,Yes,Tableau,5,No
+645,South,Manager,D,Yes,Excel,9,Yes
+646,North,Support Lead,B,No,Excel,9,Yes
+647,East,Analyst,E,Yes,Tableau,1,Yes
+648,South,Support Lead,B,No,Excel,9,Yes
+649,North,Manager,B,No,Tableau,9,Yes
+650,South,Analyst,A,Yes,Power BI,12,Yes
+651,South,Analyst,B,Yes,Excel,15,Yes
+652,North,Manager,A,No,Power BI,13,Yes
+653,West,Analyst,B,Yes,None,9,Yes
+654,East,Support Lead,A,Yes,Excel,6,Yes
+655,East,Analyst,D,Yes,Excel,17,No
+656,South,Analyst,B,No,Excel,10,Yes
+657,North,Analyst,A,Yes,Excel,10,Yes
+658,South,Manager,A,No,Tableau,9,Yes
+659,West,Support Lead,C,Yes,Excel,10,Yes
+660,South,Analyst,B,Yes,Excel,9,Yes
+661,South,Analyst,A,Yes,Excel,8,Yes
+662,South,Analyst,B,No,Power BI,8,No
+663,East,Support Lead,A,No,Excel,9,Yes
+664,South,Support Lead,B,No,Tableau,8,Yes
+665,East,Manager,C,No,Power BI,7,Yes
+666,West,Manager,A,Yes,Tableau,10,Yes
+667,West,Support Lead,B,Yes,None,9,Yes
+668,North,Manager,C,No,Power BI,14,Yes
+669,West,Analyst,B,Yes,Power BI,2,Yes
+670,West,Analyst,B,Yes,Power BI,13,Yes
+671,North,Analyst,A,No,None,13,Yes
+672,West,Manager,A,No,Excel,3,Yes
+673,North,Manager,A,No,Excel,8,Yes
+674,West,Analyst,A,No,Excel,8,Yes
+675,East,Support Lead,B,Yes,Power BI,5,Yes
+676,South,Manager,B,Yes,Excel,7,Yes
+677,West,Analyst,D,No,Power BI,6,Yes
+678,South,Manager,B,No,Tableau,15,Yes
+679,North,Manager,E,Yes,Excel,12,Yes
+680,West,Manager,A,Yes,Power BI,13,Yes
+681,West,Analyst,B,No,Power BI,12,No
+682,South,Analyst,B,Yes,Power BI,6,Yes
+683,East,Manager,C,Yes,Power BI,8,Yes
+684,North,Manager,C,No,Excel,11,Yes
+685,West,Manager,B,Yes,Power BI,6,Yes
+686,North,Support Lead,B,No,Power BI,12,Yes
+687,East,Support Lead,A,No,Excel,9,No
+688,North,Manager,B,Yes,Excel,8,Yes
+689,North,Support Lead,E,No,Tableau,12,Yes
+690,West,Support Lead,B,No,Tableau,11,No
+691,West,Analyst,D,No,Excel,8,Yes
+692,West,Analyst,E,No,Excel,13,Yes
+693,East,Analyst,A,No,Excel,6,Yes
+694,East,Manager,D,Yes,Excel,11,No
+695,East,Manager,C,No,Excel,11,Yes
+696,South,Analyst,D,Yes,Excel,9,Yes
+697,East,Manager,A,No,Power BI,10,Yes
+698,North,Analyst,B,Yes,Excel,6,Yes
+699,West,Support Lead,D,Yes,Excel,12,Yes
+700,East,Manager,C,Yes,Power BI,9,Yes
+701,North,Analyst,B,No,Excel,8,No
+702,West,Manager,A,No,Excel,13,Yes
+703,East,Analyst,A,Yes,Excel,7,Yes
+704,East,Manager,B,Yes,Power BI,5,Yes
+705,West,Manager,A,Yes,Power BI,5,Yes
+706,North,Analyst,C,Yes,Tableau,11,Yes
+707,South,Analyst,A,Yes,Excel,6,No
+708,East,Analyst,A,Yes,Power BI,15,Yes
+709,South,Manager,C,Yes,Power BI,3,Yes
+710,East,Manager,B,Yes,Tableau,15,Yes
+711,West,Manager,D,No,Excel,10,Yes
+712,South,Support Lead,A,Yes,Power BI,9,Yes
+713,West,Support Lead,B,Yes,Power BI,8,Yes
+714,South,Analyst,D,Yes,Power BI,11,Yes
+715,North,Manager,A,Yes,Power BI,9,Yes
+716,West,Manager,B,No,Excel,13,Yes
+717,West,Analyst,A,Yes,Power BI,10,Yes
+718,North,Manager,B,Yes,None,10,Yes
+719,North,Manager,B,No,Excel,8,Yes
+720,South,Manager,D,Yes,Excel,9,Yes
+721,West,Analyst,A,No,Excel,10,Yes
+722,East,Support Lead,B,No,None,4,Yes
+723,South,Support Lead,C,Yes,Power BI,5,Yes
+724,West,Analyst,B,Yes,Excel,12,Yes
+725,North,Analyst,B,Yes,Excel,10,Yes
+726,South,Manager,B,Yes,None,9,No
+727,West,Manager,C,No,Power BI,10,Yes
+728,East,Manager,D,Yes,Excel,11,Yes
+729,West,Support Lead,A,Yes,Power BI,8,Yes
+730,East,Manager,C,No,Excel,7,No
+731,South,Manager,A,Yes,Excel,10,Yes
+732,West,Manager,A,Yes,Power BI,7,Yes
+733,North,Manager,A,Yes,Excel,11,Yes
+734,North,Analyst,A,Yes,Tableau,4,No
+735,West,Analyst,A,Yes,Tableau,13,Yes
+736,East,Analyst,A,Yes,Excel,11,Yes
+737,West,Support Lead,A,No,Excel,10,Yes
+738,West,Manager,E,Yes,Power BI,12,Yes
+739,South,Analyst,C,Yes,Excel,14,Yes
+740,North,Analyst,B,Yes,Excel,13,Yes
+741,East,Support Lead,D,Yes,Excel,4,Yes
+742,East,Manager,C,Yes,Excel,6,Yes
+743,North,Analyst,C,No,Excel,8,Yes
+744,South,Manager,A,No,None,10,No
+745,North,Manager,B,No,Tableau,11,Yes
+746,South,Manager,B,No,Excel,7,No
+747,South,Manager,B,No,Excel,10,Yes
+748,West,Analyst,B,Yes,Power BI,7,Yes
+749,East,Analyst,A,No,None,8,Yes
+750,North,Analyst,B,No,Power BI,5,Yes
+751,West,Analyst,D,No,Excel,7,Yes
+752,East,Analyst,C,Yes,Excel,5,Yes
+753,West,Analyst,A,Yes,Excel,7,Yes
+754,North,Analyst,A,No,Excel,13,No
+755,South,Manager,A,Yes,Power BI,7,Yes
+756,West,Analyst,C,Yes,Excel,17,Yes
+757,North,Manager,D,No,None,11,Yes
+758,West,Support Lead,A,Yes,None,10,Yes
+759,East,Analyst,A,No,Power BI,7,Yes
+760,East,Manager,A,Yes,Excel,12,Yes
+761,West,Manager,B,Yes,Power BI,8,Yes
+762,West,Analyst,C,Yes,Power BI,10,Yes
+763,West,Support Lead,A,Yes,Excel,17,Yes
+764,South,Analyst,B,No,None,9,Yes
+765,East,Support Lead,B,No,Tableau,13,Yes
+766,South,Analyst,A,No,None,7,Yes
+767,West,Analyst,B,No,None,9,Yes
+768,South,Support Lead,A,Yes,Excel,15,No
+769,North,Analyst,D,No,None,8,Yes
+770,South,Manager,B,Yes,Excel,15,No
+771,South,Manager,C,Yes,Excel,12,No
+772,North,Analyst,C,Yes,Tableau,8,Yes
+773,North,Analyst,A,No,Power BI,11,Yes
+774,North,Support Lead,A,No,Excel,12,No
+775,North,Support Lead,A,No,Power BI,11,Yes
+776,West,Manager,B,Yes,Power BI,5,Yes
+777,South,Manager,C,No,None,7,Yes
+778,North,Manager,A,Yes,Excel,9,Yes
+779,North,Analyst,A,Yes,Excel,9,Yes
+780,South,Analyst,A,Yes,Power BI,11,Yes
+781,South,Manager,A,Yes,Power BI,10,Yes
+782,North,Analyst,B,Yes,Excel,5,Yes
+783,North,Analyst,A,Yes,Tableau,11,Yes
+784,South,Analyst,D,Yes,Power BI,11,Yes
+785,North,Manager,A,No,None,11,No
+786,East,Manager,C,Yes,Excel,13,Yes
+787,South,Analyst,A,Yes,Tableau,12,Yes
+788,South,Analyst,C,Yes,None,11,Yes
+789,East,Manager,A,No,Power BI,9,Yes
+790,North,Manager,C,No,None,5,Yes
+791,North,Manager,D,No,Excel,11,Yes
+792,North,Support Lead,B,Yes,Excel,10,Yes
+793,West,Analyst,C,Yes,None,10,Yes
+794,West,Manager,A,Yes,Excel,6,Yes
+795,South,Support Lead,E,Yes,Excel,6,Yes
+796,West,Support Lead,C,Yes,Power BI,13,Yes
+797,South,Manager,B,Yes,Power BI,9,Yes
+798,South,Analyst,B,Yes,Excel,12,Yes
+799,West,Analyst,A,Yes,Power BI,10,Yes
+800,South,Manager,C,Yes,Excel,10,No
+801,South,Analyst,B,Yes,Excel,12,Yes
+802,North,Manager,C,Yes,Excel,8,Yes
+803,West,Support Lead,A,No,Tableau,10,Yes
+804,East,Manager,A,Yes,Excel,8,No
+805,East,Analyst,B,Yes,Excel,8,Yes
+806,North,Analyst,B,Yes,Power BI,9,Yes
+807,East,Manager,B,Yes,Excel,10,Yes
+808,West,Analyst,A,Yes,Excel,8,Yes
+809,South,Analyst,A,No,None,13,No
+810,West,Analyst,D,No,Excel,7,Yes
+811,West,Analyst,B,No,Power BI,9,Yes
+812,North,Analyst,B,No,Excel,8,No
+813,West,Support Lead,A,Yes,Tableau,14,No
+814,South,Manager,B,Yes,Tableau,10,Yes
+815,West,Manager,D,No,None,13,Yes
+816,West,Manager,B,Yes,Power BI,5,No
+817,South,Manager,A,Yes,Excel,10,No
+818,South,Support Lead,A,Yes,Power BI,12,Yes
+819,South,Analyst,A,Yes,Excel,10,Yes
+820,West,Analyst,E,No,Excel,13,Yes
+821,North,Analyst,D,Yes,Power BI,8,Yes
+822,South,Manager,C,Yes,Excel,14,Yes
+823,West,Manager,A,No,None,16,Yes
+824,East,Manager,B,Yes,Tableau,8,Yes
+825,West,Manager,B,Yes,Excel,8,Yes
+826,North,Manager,B,No,Power BI,14,Yes
+827,North,Manager,A,Yes,Excel,14,Yes
+828,East,Manager,A,Yes,None,8,Yes
+829,East,Analyst,C,Yes,Tableau,8,Yes
+830,West,Analyst,B,Yes,Tableau,9,Yes
+831,West,Support Lead,C,No,Excel,5,Yes
+832,North,Analyst,A,Yes,Power BI,7,Yes
+833,North,Manager,C,No,None,6,Yes
+834,East,Analyst,C,Yes,Power BI,7,Yes
+835,South,Analyst,B,No,Excel,9,Yes
+836,South,Analyst,E,Yes,Excel,10,Yes
+837,North,Analyst,A,No,Excel,14,Yes
+838,East,Analyst,B,Yes,Excel,7,Yes
+839,North,Manager,B,Yes,Excel,12,Yes
+840,East,Manager,B,No,Tableau,9,Yes
+841,East,Support Lead,B,Yes,Excel,9,Yes
+842,South,Analyst,D,Yes,Excel,12,Yes
+843,West,Support Lead,A,Yes,Power BI,6,Yes
+844,North,Manager,C,No,Tableau,11,Yes
+845,South,Manager,A,No,Power BI,10,Yes
+846,West,Manager,A,No,Excel,11,No
+847,North,Manager,A,No,Excel,10,Yes
+848,East,Manager,A,Yes,Tableau,17,Yes
+849,North,Analyst,A,Yes,Power BI,8,Yes
+850,West,Analyst,B,No,Excel,8,No
+851,South,Manager,A,Yes,Tableau,8,Yes
+852,East,Support Lead,C,Yes,Excel,8,Yes
+853,North,Manager,C,No,Excel,8,Yes
+854,South,Manager,A,Yes,Excel,13,Yes
+855,North,Manager,A,Yes,None,14,Yes
+856,North,Manager,B,Yes,Excel,8,Yes
+857,East,Analyst,A,Yes,Tableau,7,Yes
+858,North,Manager,B,No,Excel,11,Yes
+859,West,Manager,C,No,Power BI,8,Yes
+860,West,Analyst,A,No,Power BI,11,Yes
+861,North,Support Lead,C,Yes,Excel,10,Yes
+862,West,Manager,A,No,Tableau,5,Yes
+863,South,Manager,D,Yes,Excel,14,Yes
+864,East,Analyst,D,Yes,Excel,15,Yes
+865,East,Analyst,C,Yes,Excel,8,Yes
+866,North,Analyst,C,Yes,Power BI,8,Yes
+867,East,Analyst,B,Yes,Power BI,10,Yes
+868,West,Manager,A,No,Power BI,11,Yes
+869,West,Analyst,A,No,Excel,11,Yes
+870,West,Manager,B,Yes,Excel,16,Yes
+871,East,Support Lead,A,Yes,Tableau,9,Yes
+872,West,Manager,B,Yes,Excel,7,Yes
+873,North,Analyst,C,Yes,Excel,5,Yes
+874,West,Manager,C,Yes,Power BI,7,No
+875,East,Support Lead,D,No,None,9,No
+876,North,Analyst,B,No,Tableau,15,Yes
+877,North,Manager,B,No,Excel,8,Yes
+878,North,Manager,C,Yes,Excel,10,Yes
+879,West,Analyst,A,Yes,Excel,9,Yes
+880,East,Support Lead,A,No,Power BI,13,Yes
+881,North,Analyst,A,No,Power BI,17,No
+882,South,Manager,B,Yes,Excel,8,Yes
+883,West,Analyst,B,Yes,Tableau,8,Yes
+884,South,Manager,B,Yes,Tableau,13,Yes
+885,East,Analyst,B,Yes,None,12,Yes
+886,East,Manager,B,No,Excel,15,Yes
+887,East,Analyst,A,No,Excel,11,Yes
+888,North,Analyst,B,Yes,Power BI,8,No
+889,North,Analyst,B,Yes,Power BI,11,Yes
+890,East,Manager,A,No,Power BI,13,Yes
+891,East,Manager,B,Yes,Excel,12,No
+892,North,Manager,A,Yes,Tableau,11,Yes
+893,South,Analyst,A,Yes,Power BI,13,Yes
+894,South,Analyst,B,Yes,Tableau,13,Yes
+895,South,Analyst,D,Yes,Excel,14,Yes
+896,South,Support Lead,C,Yes,Excel,11,Yes
+897,South,Manager,C,Yes,Power BI,9,Yes
+898,North,Manager,B,Yes,Excel,10,No
+899,South,Manager,C,Yes,Excel,13,No
+900,North,Manager,C,Yes,Excel,7,Yes
+901,North,Manager,B,Yes,Tableau,11,Yes
+902,East,Manager,A,Yes,Power BI,8,Yes
+903,South,Analyst,B,Yes,Excel,10,Yes
+904,South,Manager,A,Yes,Excel,13,Yes
+905,North,Analyst,B,No,Excel,10,Yes
+906,North,Manager,B,No,Excel,10,Yes
+907,North,Analyst,A,No,Excel,5,Yes
+908,South,Support Lead,C,Yes,Excel,12,No
+909,West,Support Lead,A,Yes,None,11,Yes
+910,East,Manager,C,Yes,Excel,16,Yes
+911,North,Manager,C,Yes,Excel,9,No
+912,South,Analyst,A,Yes,Excel,10,Yes
+913,South,Analyst,A,Yes,Excel,10,Yes
+914,North,Analyst,A,Yes,Tableau,14,Yes
+915,North,Support Lead,C,Yes,Power BI,9,No
+916,North,Analyst,D,Yes,Excel,10,Yes
+917,North,Analyst,A,No,Tableau,11,Yes
+918,East,Manager,A,Yes,None,10,Yes
+919,East,Analyst,E,Yes,Excel,8,Yes
+920,South,Manager,A,Yes,Excel,10,Yes
+921,North,Analyst,B,Yes,Power BI,13,Yes
+922,South,Manager,A,No,Excel,6,Yes
+923,East,Analyst,E,No,None,10,Yes
+924,East,Manager,C,Yes,Excel,7,Yes
+925,West,Support Lead,D,Yes,Power BI,13,Yes
+926,North,Manager,A,No,Excel,5,No
+927,North,Manager,B,Yes,Power BI,8,No
+928,North,Analyst,A,Yes,Tableau,11,Yes
+929,West,Analyst,B,Yes,Excel,14,Yes
+930,West,Manager,E,Yes,Excel,9,Yes
+931,South,Analyst,B,Yes,Excel,8,Yes
+932,West,Manager,B,Yes,Excel,15,Yes
+933,South,Manager,C,No,Tableau,5,Yes
+934,West,Manager,A,No,Power BI,3,Yes
+935,East,Analyst,C,No,Power BI,11,Yes
+936,East,Analyst,B,No,Power BI,8,Yes
+937,South,Analyst,B,Yes,Tableau,6,Yes
+938,West,Manager,A,Yes,Power BI,12,Yes
+939,East,Support Lead,E,Yes,Excel,10,Yes
+940,South,Manager,A,No,Power BI,8,No
+941,West,Analyst,A,No,Excel,6,Yes
+942,South,Analyst,A,No,Tableau,12,Yes
+943,North,Support Lead,A,No,Excel,11,Yes
+944,South,Analyst,B,Yes,Excel,9,Yes
+945,East,Manager,A,Yes,Excel,15,Yes
+946,South,Manager,A,Yes,Excel,6,No
+947,South,Manager,B,Yes,Excel,5,Yes
+948,South,Analyst,E,Yes,Excel,7,Yes
+949,North,Manager,A,Yes,Excel,9,Yes
+950,South,Support Lead,B,No,Power BI,10,Yes
+951,South,Analyst,B,Yes,Excel,9,Yes
+952,South,Analyst,C,Yes,Power BI,11,Yes
+953,South,Manager,B,Yes,None,6,No
+954,North,Analyst,A,No,Power BI,14,Yes
+955,West,Analyst,B,No,Tableau,9,Yes
+956,South,Manager,C,No,Excel,13,Yes
+957,East,Manager,B,Yes,Excel,11,Yes
+958,West,Support Lead,C,Yes,Excel,11,Yes
+959,West,Manager,D,No,Power BI,11,Yes
+960,North,Manager,C,Yes,Excel,11,Yes
+961,South,Analyst,A,No,Power BI,11,Yes
+962,East,Support Lead,A,Yes,Power BI,13,Yes
+963,South,Analyst,C,Yes,Tableau,10,Yes
+964,East,Manager,A,Yes,None,12,Yes
+965,South,Analyst,C,Yes,Tableau,9,Yes
+966,West,Manager,A,Yes,Excel,14,Yes
+967,North,Analyst,B,No,Tableau,7,Yes
+968,East,Analyst,D,No,None,15,Yes
+969,West,Manager,B,Yes,None,9,Yes
+970,South,Manager,C,Yes,Tableau,5,Yes
+971,North,Manager,E,Yes,Excel,10,Yes
+972,West,Analyst,A,Yes,Excel,7,Yes
+973,East,Analyst,A,No,Excel,12,Yes
+974,West,Analyst,B,No,Excel,8,Yes
+975,South,Analyst,E,No,Excel,8,Yes
+976,West,Support Lead,B,Yes,Power BI,4,Yes
+977,South,Support Lead,C,No,Excel,8,Yes
+978,North,Support Lead,B,Yes,Excel,2,Yes
+979,North,Analyst,E,Yes,Excel,5,No
+980,East,Manager,A,No,Tableau,12,No
+981,East,Manager,E,Yes,Power BI,12,Yes
+982,East,Analyst,A,No,None,11,Yes
+983,South,Analyst,C,No,Excel,7,Yes
+984,West,Support Lead,A,Yes,Excel,9,Yes
+985,South,Analyst,A,Yes,Power BI,9,Yes
+986,South,Analyst,C,Yes,Excel,6,Yes
+987,North,Support Lead,B,Yes,Power BI,14,Yes
+988,North,Support Lead,B,Yes,Tableau,12,Yes
+989,East,Manager,A,Yes,Excel,9,Yes
+990,South,Analyst,B,No,Tableau,10,Yes
+991,West,Analyst,B,No,Power BI,10,Yes
+992,East,Analyst,D,No,Excel,3,No
+993,West,Manager,B,No,Excel,9,Yes
+994,South,Manager,C,Yes,Excel,7,Yes
+995,East,Support Lead,A,Yes,Excel,6,Yes
+996,North,Manager,A,No,Power BI,9,Yes
+997,East,Analyst,B,No,Excel,15,Yes
+998,East,Analyst,E,Yes,Excel,11,Yes
+999,West,Support Lead,B,Yes,Power BI,8,Yes
+1000,North,Support Lead,A,Yes,Excel,11,No
+1001,South,Manager,A,Yes,Power BI,14,No
+1002,North,Manager,B,No,Power BI,12,Yes
+1003,South,Analyst,B,Yes,Excel,10,Yes
+1004,East,Manager,C,Yes,Power BI,8,Yes
+1005,South,Manager,B,Yes,Excel,12,Yes
+1006,South,Manager,A,Yes,Excel,11,No
+1007,North,Analyst,D,Yes,Excel,12,Yes
+1008,East,Manager,B,No,Tableau,11,Yes
+1009,East,Manager,A,No,Excel,13,Yes
+1010,South,Analyst,A,Yes,None,8,Yes
+1011,North,Manager,C,No,Excel,13,Yes
+1012,North,Analyst,D,Yes,Excel,10,Yes
+1013,North,Analyst,D,Yes,None,16,Yes
+1014,East,Manager,A,No,Excel,7,Yes
+1015,East,Manager,B,No,Excel,15,Yes
+1016,North,Support Lead,C,Yes,Power BI,10,No
+1017,South,Support Lead,B,No,Excel,8,Yes
+1018,West,Manager,B,Yes,None,8,Yes
+1019,East,Support Lead,B,Yes,Excel,9,Yes
+1020,East,Manager,A,Yes,Tableau,11,Yes
+1021,North,Manager,B,Yes,Excel,11,Yes
+1022,West,Manager,B,No,Excel,8,No
+1023,West,Support Lead,B,Yes,Power BI,9,Yes
+1024,West,Analyst,C,Yes,Excel,16,Yes
+1025,North,Analyst,D,Yes,Excel,15,Yes
+1026,South,Analyst,E,Yes,Tableau,11,Yes
+1027,East,Analyst,C,Yes,Tableau,10,Yes
+1028,West,Manager,C,No,None,10,Yes
+1029,South,Analyst,A,Yes,Excel,11,Yes
+1030,South,Manager,C,No,Excel,6,Yes
+1031,South,Manager,C,Yes,Power BI,9,Yes
+1032,North,Analyst,B,Yes,Excel,4,Yes
+1033,West,Analyst,A,Yes,Tableau,11,Yes
+1034,North,Support Lead,D,Yes,Excel,11,No
+1035,West,Analyst,A,Yes,Tableau,8,Yes
+1036,South,Analyst,A,No,Excel,14,Yes
+1037,West,Analyst,C,Yes,Excel,6,No
+1038,North,Manager,B,No,Power BI,5,Yes
+1039,East,Manager,A,Yes,Tableau,10,Yes
+1040,North,Analyst,B,Yes,Excel,13,No
+1041,West,Manager,C,Yes,Power BI,15,Yes
+1042,North,Support Lead,A,Yes,Power BI,8,Yes
+1043,West,Analyst,D,Yes,Power BI,13,Yes
+1044,East,Manager,B,Yes,Tableau,9,Yes
+1045,South,Manager,B,No,Excel,9,Yes
+1046,East,Support Lead,A,No,None,12,Yes
+1047,South,Manager,A,No,Excel,11,Yes
+1048,North,Analyst,B,Yes,Excel,5,Yes
+1049,West,Analyst,A,Yes,Tableau,14,Yes
+1050,East,Analyst,B,Yes,Excel,14,Yes
+1051,West,Analyst,B,No,Power BI,8,Yes
+1052,South,Analyst,A,No,Power BI,11,Yes
+1053,West,Support Lead,C,Yes,Excel,11,Yes
+1054,South,Manager,C,Yes,Excel,10,Yes
+1055,North,Analyst,C,Yes,Excel,8,Yes
+1056,South,Analyst,A,Yes,Excel,7,Yes
+1057,West,Analyst,E,Yes,None,9,Yes
+1058,East,Manager,A,No,Power BI,13,Yes
+1059,North,Support Lead,B,Yes,Tableau,11,Yes
+1060,East,Support Lead,D,Yes,Excel,8,Yes
+1061,North,Manager,C,No,Excel,12,Yes
+1062,North,Analyst,C,No,None,1,Yes
+1063,North,Manager,A,No,Excel,13,Yes
+1064,West,Support Lead,C,No,Excel,4,Yes
+1065,South,Support Lead,B,Yes,Power BI,8,Yes
+1066,East,Analyst,A,Yes,Excel,6,Yes
+1067,East,Support Lead,D,Yes,Power BI,6,Yes
+1068,North,Analyst,D,Yes,Power BI,13,Yes
+1069,North,Analyst,C,Yes,Power BI,8,Yes
+1070,East,Support Lead,C,Yes,Excel,11,Yes
+1071,North,Support Lead,B,No,Excel,9,Yes
+1072,South,Manager,D,Yes,Excel,11,Yes
+1073,West,Analyst,A,Yes,Tableau,10,Yes
+1074,West,Support Lead,A,Yes,None,6,Yes
+1075,South,Analyst,B,Yes,Power BI,12,Yes
+1076,East,Analyst,A,Yes,Power BI,8,Yes
+1077,South,Manager,A,Yes,Power BI,5,Yes
+1078,South,Analyst,E,No,Tableau,8,Yes
+1079,West,Analyst,A,Yes,Power BI,14,Yes
+1080,East,Analyst,A,Yes,Excel,12,No
+1081,South,Manager,A,Yes,Power BI,8,Yes
+1082,North,Support Lead,A,No,Excel,8,Yes
+1083,West,Analyst,A,No,Excel,9,Yes
+1084,North,Analyst,B,No,Excel,16,Yes
+1085,North,Manager,A,No,Tableau,11,Yes
+1086,West,Manager,B,Yes,Excel,11,Yes
+1087,South,Analyst,B,Yes,Excel,13,Yes
+1088,West,Support Lead,B,No,Excel,10,Yes
+1089,South,Support Lead,E,Yes,Excel,9,Yes
+1090,West,Analyst,A,Yes,Excel,9,Yes
+1091,South,Analyst,B,No,Power BI,9,Yes
+1092,North,Manager,B,Yes,None,9,Yes
+1093,South,Support Lead,B,Yes,Excel,12,Yes
+1094,East,Support Lead,A,Yes,Power BI,10,Yes
+1095,North,Manager,E,Yes,None,12,Yes
+1096,East,Support Lead,A,No,Power BI,9,Yes
+1097,East,Analyst,B,Yes,Power BI,10,Yes
+1098,South,Analyst,D,No,Excel,4,Yes
+1099,North,Manager,A,Yes,Power BI,12,Yes
+1100,West,Manager,B,No,Excel,11,Yes
+1101,South,Manager,A,No,Excel,12,Yes
+1102,East,Analyst,C,Yes,None,1,Yes
+1103,South,Analyst,A,No,Power BI,16,No
+1104,North,Manager,E,Yes,Excel,9,No
+1105,North,Support Lead,A,Yes,Tableau,13,Yes
+1106,West,Analyst,A,No,Excel,6,Yes
+1107,West,Manager,C,No,None,11,Yes
+1108,South,Support Lead,C,Yes,Tableau,6,Yes
+1109,West,Manager,A,Yes,Tableau,8,Yes
+1110,North,Support Lead,A,No,Excel,15,Yes
+1111,South,Manager,B,Yes,Tableau,9,Yes
+1112,South,Manager,A,Yes,Excel,10,Yes
+1113,West,Analyst,B,Yes,Tableau,12,Yes
+1114,South,Analyst,B,Yes,Excel,11,Yes
+1115,South,Analyst,C,No,Power BI,10,Yes
+1116,North,Manager,B,No,Excel,11,Yes
+1117,South,Analyst,A,Yes,Excel,17,Yes
+1118,North,Support Lead,B,Yes,Excel,9,Yes
+1119,East,Manager,B,No,Excel,10,Yes
+1120,West,Manager,A,Yes,Excel,13,No
+1121,East,Manager,C,No,Excel,13,Yes
+1122,East,Support Lead,D,Yes,Excel,13,Yes
+1123,East,Support Lead,A,Yes,Excel,11,Yes
+1124,South,Analyst,B,Yes,Power BI,6,Yes
+1125,West,Manager,C,No,Power BI,14,No
+1126,West,Support Lead,A,Yes,Excel,6,Yes
+1127,South,Support Lead,A,No,Power BI,10,Yes
+1128,South,Manager,C,Yes,Excel,7,Yes
+1129,South,Analyst,B,Yes,Excel,9,Yes
+1130,South,Manager,B,No,Excel,10,Yes
+1131,West,Support Lead,C,No,Power BI,10,Yes
+1132,East,Manager,B,Yes,Power BI,11,No
+1133,West,Manager,A,Yes,Power BI,14,Yes
+1134,East,Support Lead,B,Yes,Excel,11,No
+1135,East,Analyst,B,Yes,Power BI,9,Yes
+1136,West,Manager,A,No,Excel,12,Yes
+1137,West,Manager,A,No,None,13,Yes
+1138,East,Analyst,C,No,Power BI,6,Yes
+1139,North,Analyst,A,Yes,Power BI,11,Yes
+1140,West,Support Lead,B,Yes,Power BI,12,No
+1141,East,Support Lead,B,Yes,Tableau,9,No
+1142,North,Support Lead,A,Yes,Excel,14,Yes
+1143,West,Manager,A,Yes,Excel,9,No
+1144,East,Support Lead,D,No,Power BI,10,Yes
+1145,North,Support Lead,B,Yes,Tableau,9,Yes
+1146,North,Analyst,B,No,Excel,10,Yes
+1147,North,Manager,A,Yes,Excel,6,Yes
+1148,West,Analyst,B,No,Excel,5,Yes
+1149,South,Manager,A,No,Tableau,14,Yes
+1150,West,Manager,B,Yes,Excel,7,Yes
+1151,East,Analyst,A,No,Power BI,7,Yes
+1152,South,Support Lead,B,Yes,Excel,3,No
+1153,East,Support Lead,B,No,Power BI,8,Yes
+1154,North,Manager,A,No,Excel,6,Yes
+1155,North,Analyst,B,No,Excel,14,Yes
+1156,East,Analyst,D,No,Tableau,13,Yes
+1157,East,Support Lead,A,Yes,Power BI,7,No
+1158,West,Analyst,A,Yes,Tableau,16,Yes
+1159,East,Support Lead,C,Yes,Excel,12,Yes
+1160,North,Analyst,B,No,Tableau,9,Yes
+1161,East,Manager,B,Yes,Excel,2,Yes
+1162,North,Manager,C,Yes,Excel,16,Yes
+1163,West,Support Lead,A,Yes,Excel,5,Yes
+1164,East,Manager,C,No,Excel,5,Yes
+1165,North,Analyst,E,No,None,13,Yes
+1166,South,Manager,A,No,Power BI,17,Yes
+1167,West,Analyst,A,Yes,Power BI,14,Yes
+1168,East,Analyst,A,Yes,Excel,11,Yes
+1169,West,Support Lead,B,Yes,Excel,11,Yes
+1170,West,Support Lead,B,No,None,12,Yes
+1171,West,Analyst,B,Yes,Power BI,12,Yes
+1172,West,Manager,C,No,Excel,10,Yes
+1173,West,Manager,A,Yes,None,10,Yes
+1174,West,Manager,B,Yes,Power BI,9,Yes
+1175,East,Support Lead,A,Yes,Tableau,7,Yes
+1176,West,Manager,D,No,Excel,9,Yes
+1177,West,Manager,B,Yes,Excel,4,Yes
+1178,East,Analyst,D,No,Excel,9,Yes
+1179,South,Analyst,B,Yes,Excel,7,Yes
+1180,East,Manager,B,No,Excel,6,No
+1181,East,Analyst,E,No,Power BI,10,Yes
+1182,South,Analyst,B,No,Power BI,14,Yes
+1183,North,Analyst,A,No,Power BI,12,Yes
+1184,South,Analyst,B,Yes,Power BI,5,Yes
+1185,North,Manager,A,No,Tableau,7,Yes
+1186,North,Support Lead,B,Yes,Excel,12,No
+1187,North,Manager,A,Yes,Power BI,7,Yes
+1188,North,Manager,A,Yes,Excel,9,Yes
+1189,North,Manager,E,No,Excel,11,No
+1190,South,Manager,A,Yes,Excel,7,Yes
+1191,East,Manager,D,No,Excel,10,Yes
+1192,South,Analyst,C,Yes,Excel,5,Yes
+1193,West,Analyst,A,Yes,Power BI,8,No
+1194,North,Manager,E,No,Excel,10,Yes
+1195,South,Manager,B,Yes,Power BI,5,Yes
+1196,South,Manager,E,No,Power BI,11,Yes
+1197,West,Manager,C,No,Power BI,9,Yes
+1198,South,Manager,D,Yes,Power BI,11,Yes
+1199,West,Support Lead,C,Yes,Tableau,10,Yes
+1200,South,Analyst,B,Yes,Excel,14,Yes
