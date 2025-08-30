@@ -1,87 +1,92 @@
-📊 Amazon Sales Dashboard using Power BI
+ 📊 Amazon Sales Reporting Survey Dashboard
 
- 🧩 Overview  
-This project showcases a dynamic sales performance dashboard built in Power BI using synthetic data. It simulates a business scenario where thousands of sales orders are made across different regions and product categories. The dashboard enables users to monitor overall sales performance and drill down into specific areas to uncover trends and business growth opportunities.
+🚀 Project Overview
 
----
-
-🎯 Business Problem  
-Decision-makers often struggle to track performance across regions, products, and time periods. This dashboard solves that by providing clear, interactive insights into sales trends, top-performing categories, and regional growth patterns—enabling faster, data-driven decisions.
+This dashboard was built to explore and solve inefficiencies in Amazon’s sales reporting workflows. The project began with a simulated survey (poll) designed to mimic real-world feedback from sales professionals. Using synthetic data generated from that poll, we analyzed reporting challenges, tool usage, and time spent on manual reporting tasks. The result is a recruiter-ready Power BI dashboard backed by a detailed case study.
 
 ---
 
- 📸 Dashboard Preview  
-<img width="2344" height="1252" alt="Screenshot 2025-08-29 163241" src="https://github.com/user-attachments/assets/c0b60c6e-21f1-4eda-a7e1-80c97b47f649" />
-<img width="1861" height="1241" alt="Screenshot 2025-08-29 164220" src="https://github.com/user-attachments/assets/98861c7b-fb8e-4b45-beb6-a8ea210d0401" />
+🎯 Business Problem
 
-
-*Figure: Interactive dashboard showing revenue trends, top-performing regions, and product-wise breakdown.*
+Sales teams often spend excessive time on manual reporting, using fragmented tools like Excel or outdated workflows. This leads to delays, data inconsistencies, and frustration. Our goal was to understand these pain points and propose a dashboard solution that could streamline reporting and improve decision-making.
 
 ---
 
- 📊 Key Insights  
-- 📈 North region contributes 35% of total revenue  
-- 🛒 Electronics category shows highest YoY growth  
-- ⏱️ Sales dip observed in Q2 across all regions  
-- 📉 South region underperforms in Q3, suggesting inventory or marketing gaps  
+ 🧠 Case Study: Key Insights from the Survey
+
+ 1. Top Challenges in Reporting
+A pie chart visualized the most common challenges faced by Amazon’s sales team:
+- 🔹 Data accuracy
+- 🔹 Data completeness
+- 🔹 Timeliness of reporting
+- 🔹 Tool limitations
+
+> These insights validated the need for a centralized, automated dashboard solution.
 
 ---
 
- 🧠 Business Impact  
-- Reduced manual reporting time by 80% 
-- Enabled faster decision-making across 4 regional teams
-- Improved visibility into product performance and seasonal demand  
-- Supports strategic planning and resource allocation  
+ 2. Distribution of Monthly Reporting Time
+A histogram-style chart grouped respondents by how many hours they spend on reporting each month:
+- ⏱️ Majority fell into the 8–16 hour range
+- ⏳ Some outliers spent over 20 hours
+
+> This highlighted a major inefficiency and justified the time-saving potential of a dashboard.
 
 ---
 
- 🛠️ Tools & Technologies  
-- Power BI – Visualizations, DAX, slicers, KPI cards  
-- Python – Synthetic data generation using Pandas & NumPy  
-- Excel – Data cleaning and formatting  
+3. Reporting Tool Usage by Region
+A stacked bar chart showed how different regions rely on different tools:
+- 📊 Excel dominated across all regions
+- 🟣 Power BI adoption was highest in the West
+- 🟠 Tableau and “None” were minimal
+
+> This helped identify where dashboard adoption would be easiest and where training might be needed.
 
 ---
 
- 📁 Files Included  
-- `synthetic_sales_data.csv` – Generated dataset  
-- `sales_dashboard.pbix` – Power BI dashboard file  
-- `README.md` – Project overview and instructions  
+4. KPI Cards
+We created key performance indicators to summarize the most impactful metrics:
+- 📌 **Average Monthly Reporting Time**: ~12.4 hours
+- 📌 **% Interested in Dashboard Solution**: 401 out of 1,200 respondents (~33.4%)
+- 📌 **Excel Usage Rate**: ~60%
+- 📌 **Power BI Usage Rate**: ~25%
+
+> These KPIs give recruiters and stakeholders instant insight into the problem and its potential solution.
 
 ---
 
-📂 Project Structure  
-```
-Sales-dashboard-using-power-bi/
-├── data/                         # Synthetic dataset
-│   └── synthetic_sales_data.csv
-├── results/                      # Dashboard screenshots
-│   └── dashboard_preview.png
-├── sales_dashboard.pbix         # Power BI dashboard file
-├── README.md                    # Project overview
-└── LICENSE                      # License file
-```
+ 🛠️ Tools Used
+
+- Power BI: For dashboard design, DAX measures, and visual storytelling
+- Synthetic Survey Data: Created from a simulated poll
+- DAX: Used for KPI calculations and filtering
+- GitHub & LinkedIn: For portfolio presentation and professional branding
 
 ---
 
- 🚀 How to Use  
-1. Clone this repo or download the `.pbix` file  
-2. Open in Power BI Desktop  
-3. Use slicers to explore regional and product-level insights  
-4. Customize or extend the dashboard as needed  
+📈 Impact
+
+This dashboard doesn’t just visualize data—it tells a story. It shows:
+- Where reporting inefficiencies exist
+- Which tools are most used
+- How much time is being lost
+- Why a dashboard solution is needed
+
+It’s designed to impress recruiters, spark stakeholder conversations, and showcase real-world business intelligence skills.
 
 ---
 
- 🧭 Live Context  
-This dashboard simulates Flipkart’s monthly sales across 4 regions and 10 product categories. It helps identify seasonal trends, top-performing products, and areas needing strategic focus—ideal for business analysts, e-commerce managers, and data-driven decision-makers.
+ 📸 Screenshots
+
+<img width="726" height="437" alt="Screenshot 2025-08-30 192829" src="https://github.com/user-attachments/assets/894b9229-fe54-437e-a5d3-656bb7add5f5" />
+<img width="1178" height="525" alt="Screenshot 2025-08-30 192856" src="https://github.com/user-attachments/assets/76bab98d-0c69-4117-aeb2-c2b51808e3e9" />
+<img width="754" height="530" alt="Screenshot 2025-08-30 192907" src="https://github.com/user-attachments/assets/9654488a-be61-4aa1-94b2-50ae9150f753" />
+<img width="819" height="484" alt="Screenshot 2025-08-30 192925" src="https://github.com/user-attachments/assets/cab71f39-5239-499a-aedc-c67acce1a9da" />
+
+
 
 ---
 
-📬 Contact  
-Shruti Mishra
-📧 shrutinds800@gmail.com  
-🔗 [Linkindin](https://www.linkedin.com/in/shrutimishra011/)
-🔗 [GitHub](https://github.com/Shruti00001)
-
----
-
-
+ 🔗 Portfolio & LinkedIn Post
+- [Linkindin]https://www.linkedin.com/in/shrutimishra011/
+- [Github] 
