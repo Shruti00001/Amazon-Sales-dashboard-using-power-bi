@@ -11,8 +11,9 @@ Decision-makers often struggle to track performance across regions, products, an
 ---
 
  📸 Dashboard Preview  
-<img width="1699" height="1341" alt="Screenshot 2025-08-30 164920" src="https://github.com/user-attachments/assets/b524d3c5-d5d2-4f6e-a19c-8a4a7871a529" />
- <img width="1657" height="1329" alt="Screenshot 2025-08-30 164935" src="https://github.com/user-attachments/assets/85e7ea01-e005-4cf4-a032-033b9c55117c" />
+<img width="2344" height="1252" alt="Screenshot 2025-08-29 163241" src="https://github.com/user-attachments/assets/c0b60c6e-21f1-4eda-a7e1-80c97b47f649" />
+<img width="1861" height="1241" alt="Screenshot 2025-08-29 164220" src="https://github.com/user-attachments/assets/98861c7b-fb8e-4b45-beb6-a8ea210d0401" />
+
 
 *Figure: Interactive dashboard showing revenue trends, top-performing regions, and product-wise breakdown.*
 
