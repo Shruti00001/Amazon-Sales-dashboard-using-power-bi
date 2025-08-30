@@ -2,13 +2,33 @@
 
 🚀 Project Overview
 
-This dashboard was built to explore and solve inefficiencies in Amazon’s sales reporting workflows. The project began with a simulated survey (poll) designed to mimic real-world feedback from sales professionals. Using synthetic data generated from that poll, we analyzed reporting challenges, tool usage, and time spent on manual reporting tasks. The result is a recruiter-ready Power BI dashboard backed by a detailed case study.
+This dashboard is the result of a full-cycle analytics project—from ideation to execution. I began by designing a simulated survey poll to reflect real-world challenges faced by Amazon’s sales reporting teams. Using the poll responses, I generated a synthetic dataset, cleaned and structured it, and then conducted a deep dive analysis using Power BI.
+
+The goal was to uncover inefficiencies in reporting workflows, visualize tool usage across regions, and quantify interest in dashboard solutions. Every visual, KPI, and insight in this dashboard is backed by thoughtful research, strategic design, and hands-on data modeling.
 
 ---
 
 🎯 Business Problem
 
 Sales teams often spend excessive time on manual reporting, using fragmented tools like Excel or outdated workflows. This leads to delays, data inconsistencies, and frustration. Our goal was to understand these pain points and propose a dashboard solution that could streamline reporting and improve decision-making.
+
+---
+🧠 Case Study: From Poll to Dashboard
+This wasn’t just a dashboard—it was a research-driven case study. Here’s how it unfolded:
+- Poll Design & Data Generation
+I created a simulated survey targeting Amazon sales professionals. The poll included questions about reporting time, tool usage, challenges faced, and interest in dashboard solutions. The responses were used to build a structured dataset (amazon_survey_data.csv) that mimics real-world business feedback.
+
+- Data Exploration & Insight Discovery
+Using Power BI, I explored the dataset to uncover patterns:
+- Pie chart: Top reporting challenges
+- Histogram: Time spent on monthly reporting
+- Stacked bar: Tool usage by region
+- KPI cards: Dashboard interest, Excel vs Power BI usage
+- Dashboard Design & Storytelling
+- 
+I built a clean, recruiter-friendly dashboard with interactive visuals and KPI cards. Each visual was chosen to support a specific business insight and tell a cohesive story.
+- Documentation & Portfolio Branding
+I documented the entire process in this README, added screenshots, and published the .pbix file for transparency. This project is now part of my portfolio and reflects my ability to take a business problem from concept to solution.
 
 ---
 
