@@ -79,7 +79,7 @@ This dashboard simulates Flipkart’s monthly sales across 4 regions and 10 prod
 📬 Contact  
 Shruti Mishra
 📧 shrutinds800@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🔗 [Linkindin](https://www.linkedin.com/in/shrutimishra011/)
 🔗 [GitHub](https://github.com/Shruti00001)
 
 ---
