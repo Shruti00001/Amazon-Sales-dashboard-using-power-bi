@@ -1,4 +1,4 @@
-📊 Sales Dashboard using Power BI
+📊 Amazon Sales Dashboard using Power BI
 
  🧩 Overview  
 This project showcases a dynamic sales performance dashboard built in Power BI using synthetic data. It simulates a business scenario where thousands of sales orders are made across different regions and product categories. The dashboard enables users to monitor overall sales performance and drill down into specific areas to uncover trends and business growth opportunities.
