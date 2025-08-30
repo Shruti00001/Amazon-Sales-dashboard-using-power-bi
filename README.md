@@ -89,4 +89,4 @@ It’s designed to impress recruiters, spark stakeholder conversations, and show
 
  🔗 Portfolio & LinkedIn Post
 - [Linkindin]https://www.linkedin.com/in/shrutimishra011/
-- [Github] 
+- [Github]:https://github.com/Shruti00001?tab=repositories
