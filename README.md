@@ -1,4 +1,4 @@
-# 📊 E-Commerce-Sales-Dashboard-Inspired-by-Amazon
+# 📊 Amazon Sales Reporting Survey Dashboard
 
 ### 💡 The Business Problem
 
@@ -18,6 +18,7 @@ This dashboard is a full-cycle analytics project demonstrating how to transform 
 
 <br>
 
+![A screenshot of a professional-looking online survey form for sales reporting.](https://storage.googleapis.com/g.co/Bard/Images/ImageGen_236894541.png)
 
 ---
 
@@ -71,6 +72,13 @@ This dashboard doesn’t just display data—it provides clear, actionable evide
 <p align="center">
     *These KPI cards provide an instant summary of key metrics and reinforce the business case for the dashboard.*
 </p>
+
+---
+
+### 📂 Project Files
+
+* **[amazon_survey_data.csv](https://github.com/Shruti00001/E-commerce-Sales-Dashboard-Inspired-by-Amazon/blob/main/amazon_survey_data.csv)** - The raw, structured dataset used for this analysis.
+* **[Amazon_Sales_Dashboard.pbix](https://github.com/Shruti00001/E-commerce-Sales-Dashboard-Inspired-by-Amazon/blob/main/Amazon_Sales_Dashboard.pbix)** - The complete Power BI file. Feel free to download it to explore the data model, DAX measures, and interactive dashboard.
 
 ---
 
