@@ -1,4 +1,4 @@
-# 📊 Amazon Sales Reporting Survey Dashboard
+# 📊 E-Commerce-Sales-Dashboard-Inspired-by-Amazon
 
 ### 💡 The Business Problem
 
@@ -42,11 +42,17 @@ This dashboard doesn’t just display data—it provides clear, actionable evide
 <p align="center">
   <img width="80%" alt="This pie chart visualizes the top reporting challenges cited by sales professionals, validating the need for a dashboard." src="https://github.com/user-attachments/assets/894b9229-fe54-437e-a5d3-656bb7add5f5" />
 </p>
+<p align="center">
+    *This dashboard overview shows key KPIs and the primary challenges identified from the survey.*
+</p>
 
 ---
 
 <p align="center">
-  <img width="80%" alt="A histogram showing the distribution of monthly reporting hours, highlighting a major inefficiency in the process." src="https://github.com/user-attachments/assets/76bab98d-0c69-4117-aeb2-c2b51808e3e9" />
+  <img width="80%" alt="A histogram showing the distribution of monthly reporting time, highlighting a major inefficiency in the process." src="https://github.com/user-attachments/assets/76bab98d-0c69-4117-aeb2-c2b51808e3e9" />
+</p>
+<p align="center">
+    *This histogram visualizes the time spent on reporting, showcasing the inefficiency we aim to solve.*
 </p>
 
 ---
@@ -54,11 +60,17 @@ This dashboard doesn’t just display data—it provides clear, actionable evide
 <p align="center">
   <img width="80%" alt="A stacked bar chart illustrating reporting tool usage by different geographic regions, showing Excel's dominance." src="https://github.com/user-attachments/assets/9654488a-be61-4aa1-94b2-50ae9150f753" />
 </p>
+<p align="center">
+    *This chart breaks down which tools are being used by region, highlighting the opportunity for Power BI adoption.*
+</p>
 
 ---
 
 <p align="center">
   <img width="80%" alt="Key Performance Indicators (KPIs) summarizing average reporting time, Power BI adoption, and interest in a dashboard solution." src="https://github.com/user-attachments/assets/cab71f39-5239-499a-aedc-c67acce1a9da" />
+</p>
+<p align="center">
+    *These KPI cards provide an instant summary of key metrics and reinforce the business case for the dashboard.*
 </p>
 
 ---
