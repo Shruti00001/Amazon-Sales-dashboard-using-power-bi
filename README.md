@@ -18,7 +18,6 @@ This dashboard is a full-cycle analytics project demonstrating how to transform 
 
 <br>
 
-!http://googleusercontent.com/image_generation_content/1
 
 ---
 
