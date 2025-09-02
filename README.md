@@ -18,7 +18,7 @@ This dashboard is a full-cycle analytics project demonstrating how to transform 
 
 <br>
 
-![A screenshot of a professional-looking online survey form for sales reporting.](https://storage.googleapis.com/g.co/Bard/Images/ImageGen_236894541.png)
+
 
 ---
 
